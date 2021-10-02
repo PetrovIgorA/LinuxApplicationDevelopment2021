@@ -6,3 +6,4 @@ Homeworks for "Linux Application Development" course in CMC MSU:
 
 * 01_BuildReq - Simple "Hello, world!" program
 * 02_TerminalProject - Draw file in terminal window
+* 03_Multifile - miltifile build
