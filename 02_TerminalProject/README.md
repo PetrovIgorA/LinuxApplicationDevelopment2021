@@ -1,4 +1,4 @@
-# 03_TerminalProject
+# 02_TerminalProject
 
 How build:
 ```shell
