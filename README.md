@@ -11,3 +11,4 @@ Homeworks for "Linux Application Development" course in CMC MSU:
 * 05_Debugging - debug python-like range function using gdb scripts
 * 06_TracingFencing - Move file with check and strace injection usage
 * 07_Environmental - Build hashes calculation with cmake and make
+* 08_Regexps - Regex training
