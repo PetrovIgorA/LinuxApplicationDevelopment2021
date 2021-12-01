@@ -13,3 +13,4 @@ Homeworks for "Linux Application Development" course in CMC MSU:
 * 07_Environmental - Build hashes calculation with cmake and make
 * 08_Regexps - Regex training
 * 09_Testing - Testing and code coverage
+* 10_I18n - Internationalization
