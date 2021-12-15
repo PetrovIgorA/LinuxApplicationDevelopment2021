@@ -15,3 +15,4 @@ Homeworks for "Linux Application Development" course in CMC MSU:
 * 09_Testing - Testing and code coverage
 * 10_I18n - Internationalization
 * 11_Documenting - Source code documenting
+* 12_PatchInstall - Installation
